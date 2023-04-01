@@ -4,7 +4,7 @@ public class Main {
 
         int apples = 2;
         int bananas = 4;
-        int kiwi = 2;
+        int kiwi = 3;
         int peaches = 5;
 
         int s1 = apples + bananas;
