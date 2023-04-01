@@ -17,6 +17,6 @@ public class Main {
 
         System.out.println(s1 > s2);
 
-        System.out.println(s1 % 2 == 0 ^ s2 % 2 == 0 || s1 % 2 == 0 && s2 % 2 == 0);
+        System.out.println(s1 % 2 == 0 || s2 % 2 == 0);
     }
 }
